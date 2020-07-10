@@ -10,11 +10,13 @@
 
 [c](#c)
 
-[swift and Object-c](#swift and Object-c)
+[Rust](#Rust)
+
+[swift and Object-c](#swift-and-Object-c)
 
 [linux](#linux)
 
-[ansible playbook](#ansible playbook)
+[ansible playbook](#ansible-playbook)
 
 [算法](#算法)
 
@@ -87,6 +89,7 @@
 * [sup](https://github.com/pressly/sup) 简单的部署工具，类似于ansible
 * [wego](https://github.com/schachmat/wego) 命令行天气工具
 * [wuzz](https://github.com/asciimoo/wuzz) 交互式命令行http工具
+* [filebrowser](https://github.com/filebrowser/filebrowser) 个人网盘
 
 
 # Storage
@@ -110,9 +113,18 @@
 ## tools
 * [goaccess](https://github.com/allinurl/goaccess) 基于web的实时日志分析工具
 * [gwsocket](https://github.com/allinurl/gwsocket) 快速、独立、兼容的、与语言无关的 WebSocket 服务器 RFC6455
+* [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) ag
 
 
-# swift and Object-c
+
+# Rust
+
+## tools
+
+[fd](https://github.com/sharkdp/fd) fd
+
+
+# swift-and-Object-c
 ## tools
 * [iina](https://github.com/iina/iina) IINA 视频播放工具
 * [cdto](https://github.com/jbtule/cdto) finder中打开命令行
@@ -134,7 +146,7 @@
 * [vim-plug](https://github.com/junegunn/vim-plug) vim 插件管理工具
 
 
-# ansible playbook
+# ansible-playbook
 * [ansible-galaxy-pyenv](https://github.com/avanov/ansible-galaxy-pyenv) pyenv
 * [ansible-provider](https://github.com/alibaba/ansible-provider) ECS
 * [ansible-role-keepalived](https://github.com/manala/ansible-role-keepalived) keepalived
